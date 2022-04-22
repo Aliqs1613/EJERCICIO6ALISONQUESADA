@@ -1,0 +1,16 @@
+.tabla{     
+
+background-color: yellow;
+    width: 100%;
+}
+th{
+
+    color: red;
+    text-align:  center;
+}
+
+table td{
+
+    border: 1px solid #000;
+}
+ 
